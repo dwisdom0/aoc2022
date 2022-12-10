@@ -1,0 +1,2 @@
+# ignore my get_input script since it has my cookie hardcoded into it
+get_input.sh
